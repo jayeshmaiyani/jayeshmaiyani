@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @jayeshmaiyani
+- 👀 I’m interested in programming, music, movies and serieses
+- 🌱 I’m currently learning web development
+- 💞️ I’m looking to collaborate on nothing
+- 📫 How to reach me jayeshmaiyani37@gmail.com
